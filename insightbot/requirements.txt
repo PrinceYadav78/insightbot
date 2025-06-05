@@ -1,0 +1,9 @@
+streamlit
+yfinance
+pandas
+numpy
+matplotlib
+seaborn
+google-cloud-bigquery
+google-cloud-storage
+adk
